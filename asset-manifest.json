@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/css/main.5db1380d.chunk.css",
+    "main.js": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/main.e9412fb2.chunk.js",
+    "main.js.map": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/main.e9412fb2.chunk.js.map",
+    "runtime-main.js": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/runtime-main.3d0a96aa.js",
+    "runtime-main.js.map": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/runtime-main.3d0a96aa.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.610b894b.chunk.js": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/2.610b894b.chunk.js",
+    "static/js/2.610b894b.chunk.js.map": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/2.610b894b.chunk.js.map",
+    "index.html": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/index.html",
+    "precache-manifest.6718b00e1e91cf8a031058b81046dbcf.js": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/precache-manifest.6718b00e1e91cf8a031058b81046dbcf.js",
+    "service-worker.js": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.610b894b.chunk.js.LICENSE.txt": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/js/2.610b894b.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/Crio-PhonePe-Aug-2020-vedant-kumar-phonepe/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d0a96aa.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.610b894b.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.e9412fb2.chunk.js"
+  ]
+}
